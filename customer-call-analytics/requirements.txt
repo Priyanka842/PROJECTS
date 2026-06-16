@@ -1,0 +1,6 @@
+pandas
+nltk
+spacy
+SpeechRecognition
+pydub
+scikit-learn
